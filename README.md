@@ -7,7 +7,7 @@
 ![AugustoCOliveira's GitHub stats](https://github-readme-stats.vercel.app/api?username=AugustoCOliveira&theme=dark&show_icons=true)  
 
 <a href="https://github.com/Gurupreet">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCOliveira&theme=dark&hide_langs_below=1" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AugustoCOliveira&theme=dark" />
 </a>
 
 
